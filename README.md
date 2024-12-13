@@ -11,4 +11,4 @@ A simple  contact management application built with React. This project is desig
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Soudabeh-Noorollahi/Contact-App.git
